@@ -1,6 +1,6 @@
 # hikvision-ir-light
 # using ISAPI for switch camera to night and day
-# with  python
+# with  python and c#
 change user and pass to your camera user pass
 if give internal error 500 realated to your camera 
 for solve 
