@@ -1,4 +1,5 @@
 # hikvision-ir-light
+# hikvision isapi commands test
 # using ISAPI for switch camera to night and day
 # with  python and c#
 change user and pass to your camera user pass
